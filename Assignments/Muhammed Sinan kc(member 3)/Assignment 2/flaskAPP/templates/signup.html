@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Sign Up</title>
+    
+    </head>
+    <style>
+      h1.heas{
+        font-family: 'Times New Roman', Times, sans-serif;
+        color: rgb(0, 0, 0);
+        background-color: rgb(16, 170, 2);
+      }
+
+      * {
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 16px;
+  background-color: white;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+.supbtn {
+  color: rgb(10, 10, 10);
+    background: linear-gradient(to right,  #000000,#e4e7e4,#388a7c);
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    line-height: 40px;
+    width: 25%;
+    font-size: 22px;
+    font-weight: 150;
+    height: 40px;
+    padding: 0;
+    border: none;
+    border-radius: 6px;
+    border: none;
+    display: inline-block;
+    transition: all 0.5s ease 0s;
+
+}
+
+.supbtn:hover {
+  opacity: 2;
+}
+
+.supbtn:hover{
+  color:rgb(5, 190, 51);
+  box-shadow: 0 0 10px rgba(26, 224, 0, 0.7);
+}
+
+    </style>
+    <body>
+        
+        <h1 class="heas" align="center"> <em>Signing Up</em> </h1>
+        <form name="formone" action="/signup"method="post" >
+        <div class="container">
+        <b>NAME:</b><input type="text" name="name" required><br> <br>
+        <b>USERNAME:</b><input type="text" name="user" required><br> <br>
+        <b>PHONE:</b><input type="text" name="phone" required><br> <br>
+        <b>PASSWORD:</b><input type="password" name="pass" required><br> <br>
+        <b>CONFIRM PASSWORD:</b><input type="password" name="cpass" required><br> <br>
+        <input type="submit" class="supbtn" value="Join">
+  
+      </div>
+        </form>
+
+    </body>
+</html>
