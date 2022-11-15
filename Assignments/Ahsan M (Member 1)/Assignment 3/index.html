@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="styles.css">
+ <title>Personal Expense Tracker Application </title>
+ <style> 
+body { 
+ background-color: rgb(60, 199, 81); 
+display: flex; align-items: 
+center; justify-content: 
+center; flex-direction: 
+column; } 
+ img { 
+height: 240px; 
+border-radius: 10px; 
+margin: 10px; 
+ } 
+ </style>
+</head>
+<body>
+ <h1>Welcome To Personal Expense Tracker</h1>
+ <div>
+ <img src="https://peta1.s3.jp-tok.cloud-object-storage.appdomain.cloud/cash1.jpg" 
+alt="money" srcset="">
+ <img src="https://peta1.s3.jp-tok.cloud-object-storage.appdomain.cloud/cash2.jpg" 
+alt="money" srcset="">
+ <img src="https://peta1.s3.jp-tok.cloud-object-storage.appdomain.cloud/cash3.jpg" 
+alt="money" srcset="">
+ <img src="https://peta1.s3.jp-tok.cloud-object-storage.appdomain.cloud/cash4.jpg" 
+alt="money" srcset="">
+ <img src="https://peta1.s3.jp-tok.cloud-object-storage.appdomain.cloud/cash5.jpg" 
+alt="money" srcset="">
+<script>
+  window.watsonAssistantChatOptions = {
+    integrationID: "5ee48bbd-2e4b-487c-823a-f78ae4ee4e9e", // The ID of this integration.
+    region: "jp-tok", // The region your integration is hosted in.
+    serviceInstanceID: "db1f25dc-3035-4bda-a9ac-e536ae5f03c6", // The ID of your service instance.
+    onLoad: function(instance) { instance.render(); }
+  };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+    document.head.appendChild(t);
+  });
+</script>
+ </div>
+</body> 
+</html>
