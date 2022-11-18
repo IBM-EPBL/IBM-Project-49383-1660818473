@@ -53,19 +53,23 @@ Team Member 3 : Muhammed Sinan K C<br>
 - [x] Sprint 1
 - [x] Sprint 2
 
-## LINKS
-
-# TEAM MEMBERS | FOLDER LINKS 
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  AASHIQ ROSHAN V S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Aashiq%20Roshan%20(team%20lead)"></a></button>              
-  AHSAN M | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Ahsan%20M%20(Member%201)"></a> </button> |
-  ASHIQ ANWAR K | <button><a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Ashiq%20Anwar%20(Member%202)"></a> </button> |
-  MUHAMMED SINAN K C | <button><a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Muhammed%20Sinan%20kc(member%203)"></a> </button> |
-
-# TECHNOLOGIES USED </br>
+# TECHNOLOGIES AND LANGUAGES USED <br />
 - HTML</br>
 - CSS</br>
-- PYTHON</br>
-- IBM CLOUD</br>
-- IBM DATABASE</br>
-- DOCKER
+- JAVASCRIPT</br>
+- PYTHON - FLASK</br>
+- IBM DB2</br>
+- DOCKER</br>
+- IBM CLOUD OBJECT STORAGE<br>
+- KUBERNETES<br>
+- IBM CONTAINER REGISTRY<br>
+
+## LINKS
+
+| TEAM MEMBERS | FOLDER LINK    |
+| ------------- | ------------- |
+| AASHIQ ROSHAN V S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Aashiq%20Roshan%20(team%20lead)r">CLICK   </a></button>       
+| AHSAN M | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Ahsan%20M%20(Member%201)">CLICK   </a> </button> |
+| ASHIQ ANWAR K    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Ashiq%20Anwar%20(Member%202)">CLICK   </a> </button> |
+| MUHAMMED SINAN K C     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main/Assignments/Muhammed%20Sinan%20kc(member%203)">CLICK   </a> </button> |
+
