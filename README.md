@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/IBM-EPBL/IBM-Project-49383-1660818473/tree/main">
+  <img src="/Image_Logo/logo.png" alt="logo" width="100" height="100">
   </a>
 
 
