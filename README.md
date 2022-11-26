@@ -19,7 +19,7 @@ Team Member 3 : Muhammed Sinan K C<br>
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
-- [ ] ASSIGNMENT 4
+- [x] ASSIGNMENT 4
 
 <hr>
 
@@ -53,6 +53,8 @@ Team Member 3 : Muhammed Sinan K C<br>
 # ASSIGNMENT FINISHED
 - [x] Sprint 1
 - [x] Sprint 2
+- [x] Sprint 3
+- [x] Sprint 4
 
 # TECHNOLOGIES AND LANGUAGES USED <br />
 - HTML</br>
