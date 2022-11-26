@@ -50,7 +50,7 @@ Team Member 3 : Muhammed Sinan K C<br>
 - [x] Milestone and Activity List
 - [x] Sprint Delivery plan
 
-# ASSIGNMENT FINISHED
+# PROJECT DEVELOPMENT PHASE
 - [x] Sprint 1
 - [x] Sprint 2
 - [x] Sprint 3
